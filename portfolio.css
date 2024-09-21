@@ -1,0 +1,75 @@
+header{
+    background-color:white;
+   
+}
+.joie{
+    width: 800px;
+    height: 10px;
+   
+}
+.fa{
+    display: flex;
+    flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: flex-end;
+    gap: 15px;
+   margin: auto;
+}
+.roi{
+    height: 330px;
+    width: 330px;
+   display: flex;
+   margin: auto; 
+}
+a{
+    color: black;
+}
+.ma{ text-decoration: none;}
+.ma:hover{
+    text-decoration: underline;
+    
+}
+.div1{
+    width: 30px;
+    height: 30px;
+}
+h1{
+    color:rgb(96, 8, 168);
+    font-size: 50px;
+}
+.jo{
+    background-color: blanchedalmond;
+    border: 1px solid #654;
+}
+main{
+    background-color: hsla(226, 94%, 13%, 0.904) ;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+   
+   
+}
+.ou{
+    width: 400px;
+   
+}
+.container{
+   /*  border: 1px solid #653; */
+   /*  width: 1000px; */
+   /*  height: 500px; */
+   width: 1000px;
+   height: 900px;
+   display: flex;
+   flex-direction: column;
+   flex-wrap:wrap;
+   margin: 50px;
+ 
+  
+   gap: 10px;
+   /* border: 1px solid black; */
+   /*  */
+
+   
+}
+
+
