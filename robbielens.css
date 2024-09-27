@@ -1,0 +1,116 @@
+
+ body{
+    font-size: 20px;
+ }
+ 
+ #F{
+    font-weight: lighter;
+    font-size: 70px;
+    font-style: normal;
+    color: rgb(93, 93, 182);
+    text-shadow: 1px 1px 4px rgb(146, 11, 124)
+}
+.ph{
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    width: 500px;
+    margin: 150px;
+}
+
+header{
+    background-color:white;
+   
+}
+.joie{
+    width: 800px;
+    height: 10px;
+   
+}
+.fa{
+    display: flex;
+    flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: flex-end;
+    gap: 15px;
+   margin: auto;
+}
+.roi{
+    height: 330px;
+    width: 330px;
+   display: flex;
+   margin: auto;
+  
+}
+main{
+    background-color: hsla(226, 94%, 13%, 0.904) ;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+   
+}
+.ta{
+    text-align: center;
+    font-size: 20px;
+    
+}
+.ami{
+    display: flex;
+    flex-direction: column;
+    flex-wrap:wrap;
+    width: 900px;
+    height: 900px;
+    gap: 10px;
+    margin: auto;
+}
+span{
+    color:rgb(127, 100, 172);
+}
+.div1{
+    width: 30px;
+    height: 30px;
+}
+a::first-letter{
+  text-transform: capitalize;
+  color: aquamarine;
+    
+}
+.to{
+    background-color: rgb(155, 100, 187);
+    color:white;
+    text-decoration: none;
+    border-radius: 100px 100px 100px 100px;
+    padding: 20px;
+    
+    font-size: 30px;
+}
+.mou{
+    text-decoration: none;
+}
+.fo{
+    display: flex;
+    width: 560px;
+}
+.ma:hover{
+    text-decoration: underline;
+    
+}
+
+a{
+    color: black;
+}
+
+
+
+.m{
+    background-color: rgb(136, 104, 167);
+   
+}
+.ma{ text-decoration: none;}
+.moi:hover{
+    opacity:0.5 ;
+}
+
+
